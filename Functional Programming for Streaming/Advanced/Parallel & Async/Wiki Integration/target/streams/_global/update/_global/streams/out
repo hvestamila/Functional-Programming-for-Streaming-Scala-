@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/tamilaheptinh/IdeaProjects/Functional%20Programming%20for%20Streaming/Advanced/Parallel%20&%20Async/Wiki%20Integration/"), "wiki-integration")...
+[debug] Done updating ProjectRef(uri("file:/Users/tamilaheptinh/IdeaProjects/Functional%20Programming%20for%20Streaming/Advanced/Parallel%20&%20Async/Wiki%20Integration/"), "wiki-integration")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

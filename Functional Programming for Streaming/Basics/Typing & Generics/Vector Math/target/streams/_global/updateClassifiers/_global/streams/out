@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/tamilaheptinh/IdeaProjects/Functional%20Programming%20for%20Streaming/Basics/Typing%20&%20Generics/Vector%20Math/"), "vector-math")...
+[debug] Done updating ProjectRef(uri("file:/Users/tamilaheptinh/IdeaProjects/Functional%20Programming%20for%20Streaming/Basics/Typing%20&%20Generics/Vector%20Math/"), "vector-math")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
