@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 584
-    length: 3
+    length: 842
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 584
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: |-
       {
@@ -87,5 +87,8 @@ files:
       }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 14 Nov 2021 14:44:28 UTC
 record: -1
